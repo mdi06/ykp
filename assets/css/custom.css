@@ -1,0 +1,10 @@
+  a:focus,
+  a:hover {
+    color: #224f77 important;
+  }
+  
+ 
+   .nav-link:focus,
+   .nav-link:hover {
+      color: #224f77 !important;
+      }
